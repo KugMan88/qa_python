@@ -1,10 +1,5 @@
 import pytest
-from main import BooksCollector
-
 class TestBooksCollector:
-    @pytest.fixture
-    def books_collector(self):
-        return BooksCollector()
 
     def test_add_new_book_adding_a_new_book(self, books_collector):
         books_collector.add_new_book("Красная шапочка")
