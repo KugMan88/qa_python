@@ -1,4 +1,4 @@
-1. test_add_new_book_adding_a_new_book: Добавление новой книги.
+1. test_add_new_book_adding_a_new_book: Дoбавление новой книги.
 2. test_add_new_book_invalid_name: Добавление книги содержащая больше 40 символов.
 3. test_set_book_genre_assigning_genre: Проверка на присвоение жанра книге.
 4. test_set_book_genre_invalid_book: Присвоение жанра для несуществующей книги.
